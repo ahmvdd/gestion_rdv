@@ -1,5 +1,5 @@
 # ScheduleApp - Application de Gestion d'Emploi du Temps
-
+## bienvenue
 Une application fullstack moderne pour la gestion d'emploi du temps et de rendez-vous, construite avec Next.js, Prisma, PostgreSQL et JWT.
 
 ## 🚀 Fonctionnalités
@@ -38,7 +38,7 @@ Une application fullstack moderne pour la gestion d'emploi du temps et de rendez
 1. **Cloner le projet**
 \`\`\`bash
 git clone <url-du-repo>
-cd schedule-app
+cd gestion_rdv
 \`\`\`
 
 2. **Installer les dépendances**
@@ -159,4 +159,6 @@ Ce projet est sous licence MIT. Voir le fichier \`LICENSE\` pour plus de détail
 
 ## 📞 Support
 
-Pour toute question ou problème, ouvrez une issue sur GitHub.
+Pour toute question ou problème, ouvrez une issue sur GitHub ou contactez moi !
+
+## ## bon courage 🦾
